@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e86a37d0-4806-446e-b751-cf8597cd0e7a" name="Changes" comment="Primo esercizio fatto, finito e funzionante" />
+    <list default="true" id="e86a37d0-4806-446e-b751-cf8597cd0e7a" name="Changes" comment="Aggiunto il file secondoScript.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondoScript.py" beforeDir="false" afterPath="$PROJECT_DIR$/secondoScript.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,22 +47,23 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "Python.primoScript.executor": "Run",
+    "Python.secondoScript.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/brizi/PycharmProjects/HardPython/primoScript.py",
+    "last_opened_file_path": "C:/Users/brizi/PycharmProjects/HardPython/secondoScript.py",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "proofread",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.secondoScript">
     <configuration name="primoScript" type="PythonConfigurationType" factoryName="Python">
       <module name="HardPython" />
       <option name="ENV_FILES" value="" />
@@ -84,6 +88,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="secondoScript" type="PythonConfigurationType" factoryName="Python">
+      <module name="HardPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (HardPython)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secondoScript.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.primoScript" />
+      <item itemvalue="Python.secondoScript" />
+    </list>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -100,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703937591078</updated>
-      <workItem from="1703937600268" duration="5751000" />
+      <workItem from="1703937600268" duration="8728000" />
     </task>
     <task id="LOCAL-00001" summary="Primo Commit">
       <option name="closed" value="true" />
@@ -158,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703943361745</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Aggiunto il file secondoScript.py">
+      <option name="closed" value="true" />
+      <created>1703944174455</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703944174455</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,10 +209,12 @@
     <MESSAGE value="Facciamo le cose serie" />
     <MESSAGE value="Progetto azzerato" />
     <MESSAGE value="Primo esercizio fatto, finito e funzionante" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primo esercizio fatto, finito e funzionante" />
+    <MESSAGE value="Aggiunto il file secondoScript.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aggiunto il file secondoScript.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HardPython$main.coverage" NAME="main Coverage Results" MODIFIED="1703938835884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/HardPython$primoScript.coverage" NAME="primoScript Coverage Results" MODIFIED="1703943238685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/HardPython$secondoScript.coverage" NAME="secondoScript Coverage Results" MODIFIED="1703946504041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/HardPython$primoScript.coverage" NAME="primoScript Coverage Results" MODIFIED="1703944549073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
