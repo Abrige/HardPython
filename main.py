@@ -14,8 +14,3 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-# prova prova tante prove
-print_hi('Quella negra de mammeta')
-print_hi('<NAME>')
-print_hi('<NAME>')
-#prpora
