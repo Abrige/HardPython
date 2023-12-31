@@ -120,6 +120,11 @@ def inputDictionary():
     flag = True
     # input dell'utente
     for i in range(10):
+
+        # poteva essere
+        #   while nickname in dictionary["Nome"]
+        #       input("Inserisci il nome ")
+
         # cicla finché l'utente non ha inserito un nome valido non già presente nel dizionario
         while flag:
             inputNickname = input("Inserisci il nickname ")

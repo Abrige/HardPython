@@ -8,13 +8,14 @@ Creare uno script di python che simuli il login di un casino
 BONUS: stampare il resoconto dei dati assicurandosi che il nome e il cognome inizino con la maiuscola
 """
 
+
 def casino():
-    control = True # variabile di controllo
-    nameControl = False # variabile di controllo per il nome
-    surnameControl = False # variabile di controllo per il cognome
-    ageControl = False # variabile di controllo per l'età
+    control = True  # variabile di controllo
+    nameControl = False  # variabile di controllo per il nome
+    surnameControl = False  # variabile di controllo per il cognome
+    ageControl = False  # variabile di controllo per l'età
     # chiede l'input all'utente del nome
-    while(not nameControl):
+    while (not nameControl):
         nomeUtente = input("Inserire il proprio nome: ")
         if len(nomeUtente) <= 1:
             print("Nome non valido")
@@ -54,6 +55,7 @@ def casino():
     print("Nome: " + nomeUtente)
     print("Cognome: " + cognomeUtente)
     print("Eta: " + str(etaUtente))
+
 
 # chiama la funzione
 casino()

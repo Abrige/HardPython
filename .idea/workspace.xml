@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e86a37d0-4806-446e-b751-cf8597cd0e7a" name="Changes" comment="Fine esercizi secondoScript.py">
-      <change afterPath="$PROJECT_DIR$/terzoScript.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e86a37d0-4806-446e-b751-cf8597cd0e7a" name="Changes" comment="Creazione terzoScript.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +145,7 @@
       <updated>1703937591078</updated>
       <workItem from="1703937600268" duration="8960000" />
       <workItem from="1703954299621" duration="6314000" />
-      <workItem from="1703966699502" duration="2381000" />
+      <workItem from="1703966699502" duration="3421000" />
     </task>
     <task id="LOCAL-00001" summary="Primo Commit">
       <option name="closed" value="true" />
@@ -230,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703968612526</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Creazione terzoScript.py">
+      <option name="closed" value="true" />
+      <created>1703969737227</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703969737227</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +249,8 @@
     <MESSAGE value="Aggiunto il file secondoScript.py" />
     <MESSAGE value="Primo aggiornamento secondoScript.py" />
     <MESSAGE value="Fine esercizi secondoScript.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fine esercizi secondoScript.py" />
+    <MESSAGE value="Creazione terzoScript.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creazione terzoScript.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HardPython$main.coverage" NAME="main Coverage Results" MODIFIED="1703938835884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
