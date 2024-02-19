@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e86a37d0-4806-446e-b751-cf8597cd0e7a" name="Changes" comment="Creazione terzoScript.py" />
+    <list default="true" id="e86a37d0-4806-446e-b751-cf8597cd0e7a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Immagine 2023-12-31 023311.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lezione3/Learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LezioniPrima/terzoScript.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primoScript.py" beforeDir="false" afterPath="$PROJECT_DIR$/LezioniPrima/primoScript.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondoScript.py" beforeDir="false" afterPath="$PROJECT_DIR$/LezioniPrima/secondoScript.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terzoScript.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lezione3/Homeworks.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,12 +67,13 @@
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.primoScript.executor&quot;: &quot;Run&quot;,
     &quot;Python.secondoScript.executor&quot;: &quot;Run&quot;,
+    &quot;Python.terzoScript.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/brizi/PycharmProjects/HardPython/secondoScript.py&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/brizi/PycharmProjects/HardPython&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -74,7 +83,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.secondoScript">
+  <component name="RunManager" selected="Python.terzoScript">
     <configuration name="primoScript" type="PythonConfigurationType" factoryName="Python">
       <module name="HardPython" />
       <option name="ENV_FILES" value="" />
@@ -90,7 +99,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/primoScript.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\brizi\PycharmProjects\HardPython\LezioniPrima\primoScript.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +123,31 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secondoScript.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\brizi\PycharmProjects\HardPython\LezioniPrima\secondoScript.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="terzoScript" type="PythonConfigurationType" factoryName="Python">
+      <module name="HardPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (HardPython)" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\brizi\PycharmProjects\HardPython" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\brizi\PycharmProjects\HardPython\LezioniPrima\terzoScript.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,6 +159,7 @@
     <list>
       <item itemvalue="Python.primoScript" />
       <item itemvalue="Python.secondoScript" />
+      <item itemvalue="Python.terzoScript" />
     </list>
   </component>
   <component name="SharedIndexes">
@@ -146,6 +180,12 @@
       <workItem from="1703937600268" duration="8960000" />
       <workItem from="1703954299621" duration="6314000" />
       <workItem from="1703966699502" duration="3421000" />
+      <workItem from="1703982963512" duration="2265000" />
+      <workItem from="1705956249368" duration="1000" />
+      <workItem from="1706993177945" duration="5000" />
+      <workItem from="1707081347015" duration="8000" />
+      <workItem from="1708348292562" duration="2000" />
+      <workItem from="1708373605734" duration="784000" />
     </task>
     <task id="LOCAL-00001" summary="Primo Commit">
       <option name="closed" value="true" />
@@ -235,7 +275,39 @@
       <option name="project" value="LOCAL" />
       <updated>1703969737227</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Creazione terzoScript.py">
+      <option name="closed" value="true" />
+      <created>1703983413613</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1703983413613</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Creazione terzoScript.py">
+      <option name="closed" value="true" />
+      <created>1703983436716</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1703983436716</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Creazione terzoScript.py">
+      <option name="closed" value="true" />
+      <created>1703983447920</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1703983447920</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Creazione terzoScript.py">
+      <option name="closed" value="true" />
+      <created>1703983465780</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1703983465780</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +327,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HardPython$main.coverage" NAME="main Coverage Results" MODIFIED="1703938835884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HardPython$secondoScript.coverage" NAME="secondoScript Coverage Results" MODIFIED="1703968567573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/HardPython$terzoScript.coverage" NAME="terzoScript Coverage Results" MODIFIED="1703984323850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\brizi\PycharmProjects\HardPython" />
     <SUITE FILE_PATH="coverage/HardPython$primoScript.coverage" NAME="primoScript Coverage Results" MODIFIED="1703944549073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
