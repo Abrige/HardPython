@@ -83,6 +83,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\brizi\PycharmProjects\HardPython" />
+      <recent name="C:\Users\brizi\PycharmProjects\HardPython\LezioniPrima" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.terzoScript">
     <configuration name="primoScript" type="PythonConfigurationType" factoryName="Python">
       <module name="HardPython" />
